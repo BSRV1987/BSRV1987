@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I am Bala 👋
+
+👀 I’m interested in Data Engineering and Analytics. I love working with Digital Analytics data.
+🌱 I’m currently learning Snowflake and making in roads into Apache Airflow.
+👯 I’m looking to collaborate on exciting projects that involve real time data integration using stream processing technologies
+
+### What I do
+🛠️ I work with data on a day to day basis, specializing in building robust data pipelines, ETL processes both real time and batch.
+📊 I love doing Data Analysis and I use my SQL skills to understand type of data ,granularity and quality post integration before uncovering insights using analytical tools 
+🌪️ I am keen on working with open source technologies and automation where ever possible.
+
 
 <!--
 **BSRV1987/BSRV1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
