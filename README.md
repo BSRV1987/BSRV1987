@@ -7,7 +7,7 @@
 ### What I do
 🛠️ I work with data on a day to day basis, specializing in building robust data pipelines, ETL processes both real time and batch.<br>
 📊 I love doing Data Analysis and I use my SQL skills to understand type of data ,granularity and quality post integration before uncovering insights using analytical tools <br>
-🌪️ I am keen on working with open source technologies and automation where ever possible.<br>
+🌪️ I am keen on working with open source technologies and automation whereever possible.<br>
 
 
 <!--
