@@ -1,26 +1,20 @@
-### Hello, I am Bala 👋
+### Hello, I am Bala 
 
-👀 I’m interested in Data Engineering and Analytics. I love working with Digital Analytics data.<br>
-🌱 I’m currently learning Snowflake and making in roads into Apache Airflow.<br>
-👯 I’m looking to collaborate on exciting projects that involve real time data integration using stream processing technologies<br>
+Data engineer/Architect with 12 years across Azure Synapse, ADF, PySpark, and SQL, 
+currently exploring the intersection of data engineering, 
+Kubernetes, and LLM-powered systems.
 
-### What I do
-🛠️ I work with data on a day to day basis, specializing in building robust data pipelines, ETL processes both real time and batch.<br>
-📊 I love doing Data Analysis and I use my SQL skills to understand type of data ,granularity and quality post integration before uncovering insights using analytical tools <br>
-🌪️ I am keen on working with open source technologies and automation whereever possible.<br>
+### What I'm building now
+🔭 **ai-chatbot-platform** — Event-driven chatbot on Kubernetes 
+(AKS-style architecture: Kong, Kafka, KEDA, RAG, observability). 
+Learning platform engineering by building the real thing.
 
+### Recent projects
+- **DesiFlights** — Static Next.js site for the Indian community in Germany
+- **ATSV Erlangen Tennis** — Bilingual club site on Azure Static Web Apps
 
-<!--
-**BSRV1987/BSRV1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Core stack
+Azure (Synapse, ADF, OpenAI, AI Search) · PySpark · SQL · 
+Python · FastAPI · Kubernetes · Kafka · Semantic Kernel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Erlangen, Germany
